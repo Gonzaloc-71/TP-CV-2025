@@ -1,5 +1,7 @@
 # TP-CV-2025
 
+Version de python 3.10.11
+
 1- Clone the repo
 git clone https://github.com/Gonzaloc-71/TP-CV-2025
 
@@ -7,10 +9,14 @@ git clone https://github.com/Gonzaloc-71/TP-CV-2025
 
 3- activar venv ./venv/Script/activate
 
-4- pip install requeriments.txt
+4- pip install -r requeriments.txt
+
+5- seleccionar el kernel
 
 5- ejecutar la celda que tiene imports y dice ""##EJECUTAR" (Segunda celda) ![alt text](image.png)
 
-6- Ejecutar todas las celdas dentro de cada Markdown donde dice Interfaz Gradio (son 3) estapa (![alt text](image-1.png)), etapa 2 (![alt text](image-2.png))
+6- Ejecutar todas las celdas dentro de cada Markdown donde dice Interfaz Gradio (son 3) etapa 1 (![alt text](image-1.png))
+etapa 2 para esta etapa primero correr la estructura de cada modelo fine-tuning(), CNNCustom(), celda Interfaz gradio(![alt text](image-2.png))
 etapa 3 (![alt text](image-3.png))
 
+aclaracion, solo ejecutar lo mencionado.
