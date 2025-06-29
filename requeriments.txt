@@ -1,0 +1,4 @@
+torch==2.7.1
+torchvision==2.7.1
+chromadb
+gradio
